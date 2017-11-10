@@ -40,4 +40,4 @@ codespell:
 
 EXTRA_DIST = libcdt.spec libcdt.spec.in autogen.sh
 
-DISTCLEANFILES = autom4te.cache/* doxygen/*/*/* doxygen/*/*
+DISTCLEANFILES = autom4te.cache/* doxygen/*/*/* doxygen/*/* libcdt*gz
